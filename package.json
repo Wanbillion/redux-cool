@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "actions-creator": "^1.1.0",
-    "reducers-creator": "^1.1.0"
+    "reducers-creator": "^1.1.1"
   },
   "sideEffects": false
 }
